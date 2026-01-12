@@ -1,0 +1,8 @@
+{
+  "name": "EduGenie",
+  "description": "AI-powered education assistant for Indian students featuring doubt solving, notes generation, quizzes, and study planning.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
